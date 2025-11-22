@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-audio-downloader",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
